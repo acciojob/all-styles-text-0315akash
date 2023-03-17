@@ -1,12 +1,13 @@
 
 /* Your CSS Code here. */
 .container{
-	width:200px;
+	width:400px;
 	background-color:purple;
 	border-left:5px green solid;
 	font-size:20px;
 	padding:10px;
 	color:white;
+	text-decoration:underline;
 	
 	
 }
